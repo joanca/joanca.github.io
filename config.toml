@@ -13,11 +13,11 @@ style = "github"
 languages = ["python", "rust", "javascript"]
 
 [[params.social]]
-url = "https://github.com/tanksuzuki"
+url = "https://github.com/joanca"
 fa_icon = "fa-github"
 
 [[params.social]]
-url = "https://twitter.com/tanksuzuki"
+url = "https://twitter.com/acsacsar"
 fa_icon = "fa-twitter"
 
 [[params.social]]
